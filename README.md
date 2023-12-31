@@ -12,7 +12,7 @@ The snippet can be enabled in the **CSS snippets** setting.
 
 Enter *banner* into the **cssclasses** frontmatter property.
 
-In the body, type in `![[image path/name|banner]]` like the example in the image. Adding the `|alias` indicates the attachment is the banner.
+In the body, type in `![[image path/name|banner]]` like the example in the image. Adding the `|banner` alias indicates the attachment is the banner.
 
 ## Banner Icon
 
