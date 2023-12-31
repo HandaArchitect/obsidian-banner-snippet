@@ -32,6 +32,14 @@ Once the setting has been enabled, enter *banner-inline-title* into the **csscla
 
 ![Banner Inline Title](https://github.com/HandaArchitect/obsidian-banner-snippet/blob/88a18587e1f800039b723db590bb8c30ab1eb21e/Images/banner-inline-title-1.png)
 
+## Banner Fade
+
+Your banners can be individually set to fade and only fade the banners that suit each of your note's style.
+
+Enter *banner-fade* into your **cssclasses* property to enable this feature.
+
+![Banner Fade](https://github.com/HandaArchitect/obsidian-banner-snippet/blob/2f0b023b917668edde6ba4ba4d2919916fb66f45/images/banner-fade-1.png)
+
 ## Style Settings
 
 The banner snippet supports the [Style Settings](https://github.com/mgmeyers/obsidian-style-settings) plugin.
