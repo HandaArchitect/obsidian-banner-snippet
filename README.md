@@ -20,7 +20,7 @@ In the body, type in `![[image path/name|banner]]` like the example in the image
 
 A banner icon can be added by making a callout. For example, `> [!banner-icon] <icon>`. Replace *\<icon\>* with an emoji.
 
-The banner should now look like the following iamge.
+The banner should now look like the following image.
 
 ![Banner Icon](https://github.com/HandaArchitect/obsidian-banner-snippet/blob/88a18587e1f800039b723db590bb8c30ab1eb21e/Images/banner-icon-2.png)
 
@@ -28,7 +28,7 @@ The banner should now look like the following iamge.
 
 You can position the **Inline Title** on top of the banner. However, ensure that you have the **Inline Title** setting enabled under **Appearance** in Obsidian settings.
 
-Once the setting has been enabled, enter *banner-inline-title* into the **cssclasses* property. The inline title will now look like the following iamge.
+Once the setting has been enabled, enter *banner-inline-title* into the **cssclasses* property. The inline title will now look like the following image.
 
 ![Banner Inline Title](https://github.com/HandaArchitect/obsidian-banner-snippet/blob/88a18587e1f800039b723db590bb8c30ab1eb21e/Images/banner-inline-title-1.png)
 
