@@ -6,6 +6,8 @@ You can refer to [Obsidian help](https://help.obsidian.md/Extending+Obsidian/CSS
 
 The snippet can be enabled in the **CSS snippets** setting.
 
+Download the CSS file at the [releases](https://github.com/HandaArchitect/obsidian-banner-snippet/releases) page.
+
 ## Enable the Banner
 
 ![Enable Banner](https://github.com/HandaArchitect/obsidian-banner-snippet/blob/88a18587e1f800039b723db590bb8c30ab1eb21e/Images/enable-banner.png)
