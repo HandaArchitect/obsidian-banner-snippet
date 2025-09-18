@@ -1,3 +1,6 @@
+> **This project has now been discontinued**. The CSS is still available and can be easily adjusted assuming you know the basics of CSS.
+> Feel free to make a fork of this project.
+
 # Obsidian Banner Snippet
 
 This banner uses the CSS snippet approach as opposed to using a plugin that risks becoming incompatible with future versions of Obsidian. If this snippet does become incompatible, it could easily be configured to be compatible with the latest Obsidian version.
